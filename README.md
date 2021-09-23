@@ -6,7 +6,8 @@
 - 📫 How to reach me: nypels.alexandre@outlook.com
 - 😄 Pronouns: He/His
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyplex)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyplex&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
