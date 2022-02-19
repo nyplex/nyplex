@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Django/Flask
 - 📫 How to reach me: nypels.alexandre@outlook.com
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=focus&theme=tokyonight)](https://github.com/nyplex/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=Flask_blog&theme=tokyonight)](https://github.com/nyplex/Flask_blog)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyplex&theme=tokyonight&layout=compact)](https://github.com/nyplex/)
 
