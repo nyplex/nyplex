@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Flask blog.
+- 🔭 I’m currently working on a Django application.
 - 🌱 I’m currently learning Django/Flask
 - 📫 How to reach me: nypels.alexandre@outlook.com
 
