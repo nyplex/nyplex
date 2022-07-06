@@ -5,8 +5,7 @@
 - 📫 How to reach me: nypels.alexandre@outlook.com
 
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=CheckMalts&theme=tokyonight)](https://github.com/nyplex/CheckMalts)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=Flask_blog&theme=tokyonight)](https://github.com/nyplex/Flask_blog)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=CheckMalts&theme=tokyonight)](https://github.com/nyplex/CheckMalts) - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=Flask_blog&theme=tokyonight)](https://github.com/nyplex/Flask_blog)
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=Memory-game&theme=tokyonight)](https://github.com/nyplex/Memory-game)
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=Calculator-app&theme=tokyonight)](https://github.com/nyplex/Calculator-app)
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=focus&theme=tokyonight)](https://github.com/nyplex/focus)
