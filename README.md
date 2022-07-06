@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Rect
 - 📫 How to reach me: nypels.alexandre@outlook.com
 
-<div display:flexbox>
+<div>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=CheckMalts&theme=tokyonight)](https://github.com/nyplex/CheckMalts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=Flask_blog&theme=tokyonight)](https://github.com/nyplex/Flask_blog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=Memory-game&theme=tokyonight)](https://github.com/nyplex/Memory-game)
