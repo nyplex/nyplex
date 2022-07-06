@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Django application.
-- 🌱 I’m currently learning Django/Flask
+- 🔭 I’m currently working on a React application.
+- 🌱 I’m currently learning Rect
 - 📫 How to reach me: nypels.alexandre@outlook.com
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=Flask_blog&theme=tokyonight)](https://github.com/nyplex/Flask_blog)
