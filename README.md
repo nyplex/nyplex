@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Rect
 - 📫 How to reach me: nypels.alexandre@outlook.com
 
+<div display:flexbox>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=CheckMalts&theme=tokyonight)](https://github.com/nyplex/CheckMalts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=Flask_blog&theme=tokyonight)](https://github.com/nyplex/Flask_blog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=Memory-game&theme=tokyonight)](https://github.com/nyplex/Memory-game)
@@ -11,6 +12,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=focus&theme=tokyonight)](https://github.com/nyplex/focus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=shortening-API&theme=tokyonight)](https://github.com/nyplex/shortening-API)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nyplex&repo=Weather-app&theme=tokyonight)](https://github.com/nyplex/Weather-app)
+</div>
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyplex&theme=tokyonight&layout=compact)](https://github.com/nyplex/)
