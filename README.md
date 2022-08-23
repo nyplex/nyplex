@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a React application.
-- 🌱 I’m currently learning Rect
+- 🌱 I’m currently learning React
 - 📫 How to reach me: nypels.alexandre@outlook.com
 
 
